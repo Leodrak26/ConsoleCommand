@@ -1,0 +1,10 @@
+{
+    "name": "leodrak/leo",
+    "description": "My pj",
+    "type": "project",
+    "license": "no license",
+    "minimum-stability": "stable",
+    "require": {
+        "php": "7.2"
+    }
+}
